@@ -4,8 +4,8 @@
       <p align="center">
         <samp>
           <a href="https://FamilyMan">Website</a> .
-          <a href="https://twitter.com/FamilyMan">Twitter</a> .
-          <a href="https://linkedin.com/in/FamilyMan/">LinkedIn</a>
+          <a href="https://twitter.com/JulianVueColes">Twitter</a> .
+          <a href="https://linkedin.com/in/julian-coles-borg-solutions/">LinkedIn</a>
         </samp>
       </p>
     </td>
